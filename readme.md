@@ -1,2 +1,3 @@
-Aula de repositório na ETEC
+Aula de repositório da ETEC
+Testes no GitHub..
 
